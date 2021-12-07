@@ -1,0 +1,7 @@
+/bazel-*
+.bazelrc.local
+
+*.hi
+*.o
+dist-newstyle/
+.DS_Store
