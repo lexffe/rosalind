@@ -19,7 +19,10 @@ This repository serves as my solution for rosalind.
 
 - OCaml
 - Scala
+- Agda/Coq?
 
 ## Index
 
-- [Q1](haskell/q1.hs)
+- [Q1](haskell/Q1.hs)
+- [Q2](haskell/Q2.hs)
+- [Q3](haskell/Q3.hs)
